@@ -1,4 +1,4 @@
-# celery_crontab_in_database_project - django, celelry, redis: interval and crontab schedules in database sample project
+# celery_crontab_in_database_project - django, celelry, redis: interval and crontab schedules in database sample project (mixed with in code celery schedules - heart beats - every 1min and every 2min)
 
 .env content:
 ---
