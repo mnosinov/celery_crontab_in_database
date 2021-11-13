@@ -1,1 +1,1 @@
-celery -A celeryapp worker -l debug
+celery -A crontabdb worker -l debug
